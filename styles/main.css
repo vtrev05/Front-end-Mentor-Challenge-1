@@ -29,6 +29,7 @@ p {
 }
 .first-box {
     width: 40%;
+    height: auto;
     background-color: hsl(244, 38%, 16%);
     padding: 43px;
     border-radius: 2%;
