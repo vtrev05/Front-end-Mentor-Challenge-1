@@ -11,7 +11,7 @@ Users should be able to:
 - View the optimal layout depending on their device's screen size
 
 ### Screenshot
-"./images/frontend-mentor-challenge-1.jpg"
+![](./images/frontend-mentor-challenge-1.jpg)
 
 ### Links
 
